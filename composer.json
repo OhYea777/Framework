@@ -1,0 +1,12 @@
+{
+  "name": "com.ohyea777/Framework",
+  "description": "PHP Framework",
+  "minimum-stability": "dev",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Jack Taylor",
+      "email": "contact@ohyea777.com"
+    }
+  ]
+}
